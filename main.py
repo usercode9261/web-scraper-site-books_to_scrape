@@ -39,7 +39,7 @@ class Scraper:
     def open_json(self):
         while True:
             try:
-                with open('test3.json', 'r', encoding='utf-8') as v:
+                with open('config.json', 'r', encoding='utf-8') as v:
                     self.informations = json.load(v)
                 logging.info('json opened.')
                 break
