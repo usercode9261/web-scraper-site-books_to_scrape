@@ -1,18 +1,12 @@
-## web-scraper-site-books_to_scrape
-web scraper of the site "books.toscrape.com", this code extract 5 elements:
+## 📚 web-scraper-site-books_to_scrape
+Web scraper of the site "books.toscrape.com" with high quality data and numerical processing. This code extracts 5 key elements:
 
-## elements extracted:
+### 🔍 Elements Extracted:
 
-# title:
-extract the name of the book.
-# rating:
-extract the rating of the book, I created a filter to extract just books with the rating equal or above 3 stars(maximum of 5 stars).
-# price:
-extract the price of the book(without the symbol of euro, allowing interact with this element as a number and not a text).
-# date:
-put the date that the datas were collect.
-# link:
-extract the link of the book, allowing the user click on it and acess the page that the book is located.
-
+* **Title:** Data extraction of the name of the book.
+* **Rating:** Data extraction of the rating with an integrated filter to extract only books with 3 stars or above.
+* **Price:** Numerical extraction (removes currency symbols), allowing direct interaction as a number for analysis.
+* **Timestamping:** Records the collection date for data history and tracking.
+* **Link:** Full URL extraction for immediate access to the source page.
 
 
