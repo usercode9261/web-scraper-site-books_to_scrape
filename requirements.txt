@@ -1,0 +1,6 @@
+selenium
+selenium-stealth
+gspread
+oauth2client
+pandas
+openpyxl
