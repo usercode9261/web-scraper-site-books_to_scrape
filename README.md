@@ -32,8 +32,9 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 
 1. Clone the repository.
 2. install the requirements.
-3. you can custom the config.json if you want(opcional).
-4. execute main.py
+3. Rename the creds.json.example to creds.json and fill it with your Google Cloud Service Account credentials
+4. you can custom the config.json if you want(opcional).
+5. execute main.py
 
 # 🌟 I hope you like it!
 
