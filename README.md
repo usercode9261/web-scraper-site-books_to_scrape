@@ -38,5 +38,5 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 
 # 🌟 I hope you like it!
 
-
+obs: In this project, I used Selenium to demonstrate proficiency in browser automation and human behavior simulation. Although the website is static, the primary goal was to implement Explicit Waits and complex navigation techniques that are essential for handling SPAs (Single Page Applications).
  
