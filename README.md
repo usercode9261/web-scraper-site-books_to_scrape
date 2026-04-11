@@ -36,7 +36,20 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 4. you can custom the config.json if you want(opcional).
 5. execute main.py
 
-# 🌟 I hope you like it!
+## 📊 results and performance:
+
+### Execution logs
+![Execution log](screenshots/log_execution.png)
+
+### data output (Google Sheets, CSV and XLSX)
+![Spreadsheet result](screenshots/google_sheets_planner_result.png)
+![result in CSV](screenshots/result_in_csv)
+![result in XLSX](screenshots/result_in_xlsx)
+
+
+
+# 🌟 I hope you like it! 
+_Pythonic Effort_
 
 obs: In this project, I used Selenium to demonstrate proficiency in browser automation and human behavior simulation. Although the website is static, the primary goal was to implement Explicit Waits and complex navigation techniques that are essential for handling SPAs (Single Page Applications).
  
