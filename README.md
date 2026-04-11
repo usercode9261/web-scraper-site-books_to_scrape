@@ -39,12 +39,12 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 ## 📊 results and performance:
 
 ### Execution logs
-![Execution log](screenshots/log_execution.png)
+![Execution log](screenshot/log_execution.png)
 
 ### data output (Google Sheets, CSV and XLSX)
-![Spreadsheet result](screenshots/google_sheets_planner_result.png)
-![result in CSV](screenshots/result_in_csv)
-![result in XLSX](screenshots/result_in_xlsx)
+![Spreadsheet result](screenshot/google_sheets_planner_result.png)
+![result in CSV](screenshot/result_in_csv)
+![result in XLSX](screenshot/result_in_xlsx)
 
 
 
