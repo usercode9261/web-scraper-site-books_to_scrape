@@ -43,8 +43,8 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 
 ### data output (Google Sheets, CSV and XLSX)
 ![Spreadsheet result](screenshot/google_sheets_planner_result.png)
-![result in CSV](screenshot/result_in_csv)
-![result in XLSX](screenshot/result_in_xlsx)
+![result in CSV](screenshot/result_in_csv.png)
+![result in XLSX](screenshot/result_in_xlsx.png)
 
 
 
