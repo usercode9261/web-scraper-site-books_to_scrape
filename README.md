@@ -22,6 +22,17 @@ Web scraper of the site "books.toscrape.com" with high quality data and numerica
 
 # creds.json: necessary the input of credentials of API google cloud for Google sheets work.
 
+## 🛠️ Choice of Tools: Why Selenium?
+
+Although this specific website has a static structure that could be handled by lighter libraries like BeautifulSoup, I deliberately chose to use **Selenium WebDriver** for this project to demonstrate the following technical competencies:
+
+* **Browser Automation:** Proficiency in configuring and managing WebDrivers (Chrome/Firefox).
+* **User Interaction:** Ability to simulate human-like behavior, such as clicking, scrolling, and handling dynamic elements.
+* **Scalability:** Preparing the codebase for more complex scenarios where JavaScript rendering, login authentication, or AJAX calls would be required.
+* **Advanced Logic:** Implementing explicit and implicit waits to ensure script stability regardless of network latency.
+
+This project serves as a demonstration of my ability to navigate and automate web environments beyond simple HTTP requests.
+
 ### 🌟 technical highlights:
 
 # Stealth Mode: use selenium_stealth to doesn´t be blocked
